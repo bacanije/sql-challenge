@@ -10,7 +10,7 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 
 Data Modeling
 
-The diagram that displays the entity relationship of each CSV file can be found https://github.com/bacanije/sql-challenge/blob/main/Data%20modeling%3Adiagram.png
+The diagram that displays the entity relationship of each CSV file can be found Datamodeling:diagram.png
 
 
 Data Engineering
