@@ -2,7 +2,6 @@
 Background
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
-![image](https://github.com/bacanije/sql-challenge/assets/142119166/2f49fe78-3a76-4d1e-89a2-0038b9373ee4)
 
 # Instructions
 
@@ -28,5 +27,4 @@ Data Analysis
 6.	List each employee in the Sales department, including their employee number, last name, and first name.
 7.	List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 8.	List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
-![image](https://github.com/bacanije/sql-challenge/assets/142119166/1ef9c117-31b9-467f-8399-5e6f61b9603f)
 
