@@ -14,11 +14,11 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 Data Engineering
 1.	Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
-o	Remember to specify the data types, primary keys, foreign keys, and other constraints.
-o	For the primary keys, verify that the column is unique. Otherwise, create a composite keyLinks to an external site., which takes two primary keys to uniquely identify a row.
-o	Be sure to create the tables in the correct order to handle the foreign keys.
+ - Remember to specify the data types, primary keys, foreign keys, and other constraints.
+ - For the primary keys, verify that the column is unique. Otherwise, create a composite keyLinks to an external site., which takes two primary keys to uniquely identify a row.
+ - Be sure to create the tables in the correct order to handle the foreign keys.
 
-2..	Import each CSV file into its corresponding SQL table.
+2. Import each CSV file into its corresponding SQL table.
 
 Findings:
 There are 6 complete CSV datasets used for this challenge
@@ -30,29 +30,29 @@ There are 6 complete CSV datasets used for this challenge
    
 Data Analysis
 1.	List the employee number, last name, first name, sex, and salary of each employee.
-   o Total: 300,024
+   - Total: 300,024
 2.	List the first name, last name, and hire date for the employees who were hired in 1986.
-   o Total: 36,150
+   - Total: 36,150
 3.	List the manager of each department along with their department number, department name, employee number, last name, and first name.
-   o Marketing: 2
-  	o Finance: 2
-  	o Human Resources: 2
-  	o Production: 4
-  	o Development: 2
-  	o Quality Management: 4
-  	o Sales: 2
-  	o Research: 2
-  	o Customer Service: 4
+   - Marketing: 2
+  	- Finance: 2
+  	- Human Resources: 2
+  	- Production: 4
+  	- Development: 2
+  	- Quality Management: 4
+  	- Sales: 2
+  	- Research: 2
+  	- Customer Service: 4
 4.	List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
-   o Total: 331,603
+   - Total: 331,603
 5.	List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
-   o Total: 20, First name: Hercules, Last Name: Starts w/ 'B', 10 - Females, 10 - Males
+   - Total: 20, First name: Hercules, Last Name: Starts w/ 'B', 10 - Females, 10 - Males
 6.	List each employee in the Sales department, including their employee number, last name, and first name.
-   o Total: 52,245
+   - Total: 52,245
 7.	List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
-   o Total:137,952
+   - Total:137,952
 8.	List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
-   o Total: 1638 last names
-  	o Most: Baba = 226
+   - Total: 1638 last names
+  	- Most: Baba = 226
   	o Least: Foolsday = 1
 
