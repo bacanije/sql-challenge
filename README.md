@@ -30,29 +30,29 @@ There are 6 complete CSV datasets used for this challenge
    
 Data Analysis
 1.	List the employee number, last name, first name, sex, and salary of each employee.
-   Total: 300,024
+   o Total: 300,024
 2.	List the first name, last name, and hire date for the employees who were hired in 1986.
-   Total: 36,150
+   o Total: 36,150
 3.	List the manager of each department along with their department number, department name, employee number, last name, and first name.
-   Marketing: 2
-  	Finance: 2
-  	Human Resources: 2
-  	Production: 4
-  	Development: 2
-  	Quality Management: 4
-  	Sales: 2
-  	Research: 2
-  	Customer Service: 4
+   o Marketing: 2
+  	o Finance: 2
+  	o Human Resources: 2
+  	o Production: 4
+  	o Development: 2
+  	o Quality Management: 4
+  	o Sales: 2
+  	o Research: 2
+  	o Customer Service: 4
 4.	List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
-   Total: 331,603
+   o Total: 331,603
 5.	List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
-   Total: 20, First name: Hercules, Last Name: Starts w/ 'B', 10 - Females, 10 - Males
+   o Total: 20, First name: Hercules, Last Name: Starts w/ 'B', 10 - Females, 10 - Males
 6.	List each employee in the Sales department, including their employee number, last name, and first name.
-   Total: 52,245
+   o Total: 52,245
 7.	List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
-   Total:137,952
+   o Total:137,952
 8.	List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
-   Total: 1638 last names
-  	Most: Baba = 226
-  	Least: Foolsday = 1
+   o Total: 1638 last names
+  	o Most: Baba = 226
+  	o Least: Foolsday = 1
 
